@@ -11,14 +11,9 @@ body {
 .header {
 	padding: 60px;
 	text-align: center;
-	//background: #DDD;
 	font-size: 30px;
 	color: #444;
-	//background: url("IMG-0140.JPG");
-	//width: auto;
-	//height: auto;
-	//background-size: 100% auto;
-	min-height: 900px;
+	min-height: 1800px;
 }
 img {
   position: absolute;
