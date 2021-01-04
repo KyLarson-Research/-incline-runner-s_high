@@ -12,9 +12,10 @@ body {
 	padding: 60px;
 	text-align: center;
 	font-size: 30px;
-	color: #444;
-	min-height: 1800px;
+	color: #000080;
+	min-height: 1000px;
 }
+
 img {
   position: absolute;
   left: 0px;
@@ -22,3 +23,14 @@ img {
   z-index: -1;
 }
 
+#thirdDiv {
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-end;
+}
+
+#mediaDiv {
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-end;
+}
